@@ -1,0 +1,8 @@
+{
+  "name": "Tankbuch",
+  "description": "Moderne Tankkosten-App für Android und iOS mit Gesamtkosten-Übersicht und Preis-pro-Liter-Grafik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
